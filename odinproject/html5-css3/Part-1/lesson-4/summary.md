@@ -1,4 +1,4 @@
-#Summary of lesson 4 (Step 3: Linking Internal and Eksternal Pages)
+#Summary of lesson 4 (Step 3: Linking Internal and External Pages)
 
 I learn a useful thing! Absolute path of images!
 
